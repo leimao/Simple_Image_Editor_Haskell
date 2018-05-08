@@ -111,9 +111,8 @@ Image Saved Successfully
 (2) Exit 
 ```
 
-GitHub markdown does not support displaying ppm images. The demo ppm images were converted to png and displayed on this page.
-
 Raw             |  Negate R | Gray | Edge Detection | Sharpen | Gray + Negate R
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](sample/demo/earring.png)  |  ![](sample/demo/earring_negateR.png)|  ![](sample/demo/earring_gray.png)|  ![](sample/demo/earring_edge.png)|  ![](sample/demo/earring_sharpened.png)|  ![](sample/demo/earring_gray_negateR.png)
 
+* GitHub markdown does not support displaying ppm images. The demo ppm images were converted to png and displayed on this page.
