@@ -29,13 +29,13 @@ B' = MaxValue - B
 
 In general, MaxValue = 255
 
-### Gray scale
+### Gray Scale
 
 R' = (R + G + B) / 3
 G' = (R + G + B) / 3
 B' = (R + G + B) / 3
 
-### Edge detection and sharpen 
+### Edge Detection and Sharpen 
 
 Use [2D convolutions](http://www.songho.ca/dsp/convolution/convolution2d_example.html) and [kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 
