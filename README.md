@@ -41,7 +41,7 @@ To start the program, run the following command in the shell and follow the inst
 ```bash
 $ ./Main
 ```
-
+Multiple sequential actions is also allowed.
 
 ## Demo
 
@@ -85,4 +85,8 @@ Image Saved Successfully
 (1) Read PPM Image 
 (2) Exit 
 ```
-![](sample/earring.ppm)
+
+GitHub markdown does not support displaying ppm images. The demo ppm images were converted to png and displayed on this page.
+
+Raw                     |  Edge
+![](sample/earring.png) | ![](sample/earring_edge.png)
