@@ -85,4 +85,4 @@ Image Saved Successfully
 (1) Read PPM Image 
 (2) Exit 
 ```
-![](sample/earring.ppm)
+![](sample/Tiny6pixel.png)
