@@ -19,6 +19,27 @@ P3
 0  0  0    0  0  0       0 15 175    0    0  0
 255 0 255  0  0  0       0  0  0    255  255 255
 ```
+## Features
+
+* Negate R/G/B
+
+R' = MaxValue - R
+G' = MaxValue - G
+B' = MaxValue - B
+
+In general, MaxValue = 255
+
+* Gray scale
+
+R' = (R + G + B) / 3
+G' = (R + G + B) / 3
+B' = (R + G + B) / 3
+
+* Edge detection and sharpen 
+
+Using 2D convolutions and [kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+
+
 ## Dependencies
 
 * GHC 8.2.2
