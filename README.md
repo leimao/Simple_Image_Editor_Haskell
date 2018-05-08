@@ -24,7 +24,9 @@ P3
 ### Negate R/G/B
 
 R' = MaxValue - R
+
 G' = MaxValue - G
+
 B' = MaxValue - B
 
 In general, MaxValue = 255
@@ -32,7 +34,9 @@ In general, MaxValue = 255
 ### Gray Scale
 
 R' = (R + G + B) / 3
+
 G' = (R + G + B) / 3
+
 B' = (R + G + B) / 3
 
 ### Edge Detection and Sharpen 
