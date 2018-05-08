@@ -90,8 +90,8 @@ GitHub markdown does not support displaying ppm images. The demo ppm images were
 
 Raw             |  Negate R | Gray | Edge Detection | Sharpen | Gray -> Negate R
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](sample/earring.png)  |  ![](sample/earring_negateR.png)|  ![](sample/earring_gray.png)|  ![](sample/earring_edge.png)|  ![](sample/earring_sharpened.png)|  ![](earring_gray_negateR.png)
+![](sample/demo/earring.png)  |  ![](sample/demo/earring_negateR.png)|  ![](sample/demo/earring_gray.png)|  ![](sample/demo/earring_edge.png)|  ![](sample/demo/earring_sharpened.png)|  ![](sample/demo/earring_gray_negateR.png)
 
-Solarized dark             |  Solarized Ocean          |  Solarized Ocean
-:-------------------------:|:-------------------------:|:-------------------------:
-![](sample/earring.png)  |  ![](sample/earring_negateR.png) |  ![](sample/earring_gray.png)
+Solarized dark             |  Solarized Ocean          
+:-------------------------:|:-------------------------:
+![](sample/earring.png)  |  ![](sample/earring_negateR.png)
