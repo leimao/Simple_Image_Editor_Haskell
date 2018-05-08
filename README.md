@@ -88,5 +88,10 @@ Image Saved Successfully
 
 GitHub markdown does not support displaying ppm images. The demo ppm images were converted to png and displayed on this page.
 
+Raw             |  Edge Detection
+:-------------------------:|:-------------------------:
+![](sample/earring.png)  |  ![](sample/earring_edge.png)
+
+
 Raw                     |  Edge
 ![](sample/earring.png) | ![](sample/earring_edge.png)
