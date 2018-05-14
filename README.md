@@ -71,13 +71,14 @@ Multiple sequential actions is also allowed.
 ## Demo
 
 ```
-********************************************
-******* Welcome to the Image Editor ********
-********************************************
+============================================
+======= Welcome to the Image Editor ========
+============================================
 
 ============ Choose Your Action ============
 (1) Read PPM Image 
-(2) Exit 
+(2) Blend Distinct PPM Images 
+(3) Exit 
 1
 Please Input File Directory: 
 sample/blocks.ppm
@@ -108,7 +109,8 @@ sample/blocks_gray.ppm
 Image Saved Successfully
 ============ Choose Your Action ============
 (1) Read PPM Image 
-(2) Exit 
+(2) Blend Distinct PPM Images 
+(3) Exit 
 ```
 
 Raw             |  Negate R | Gray | Edge Detection | Sharpen | Gray + Negate R
